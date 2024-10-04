@@ -1,0 +1,31 @@
+{
+  "name": "com.homemade.google.external-dependency-manager",
+  "version": "1.2.182",
+  "displayName": "External Dependency Manager for Unity",
+  "description": "Package must have for Google LLC",
+  "keywords": [
+    "Google",
+    "Android",
+    "Gradle",
+    "Cocoapods",
+    "Dependency",
+    "Unity Package Manager",
+    "Unity",
+    "vh-name:play-services-resolver",
+    "vh-name:unity-jar-resolver",
+    "vh-name:external-dependency-manager",
+    "vh-name:External Dependency Manager for Unity"
+  ],
+  "unity": "2021.1",
+  "author": {
+    "name": "Google LLC",
+    "email": "homemadegame102@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hungpt17102k/com.homemade.google.external-dependency-manager"
+  },
+  "dependencies": {
+    
+  }
+}
